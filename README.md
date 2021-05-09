@@ -1,2 +1,2 @@
-# Basic-Banking-System
-Here is Basic Banking System project  for transfer of money.
+# Banking-System
+Code for creating a simple dynamic "Basic Banking System" 
